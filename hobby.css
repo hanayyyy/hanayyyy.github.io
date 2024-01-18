@@ -1,0 +1,41 @@
+a {
+    background-color: grey;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(5, 5, 5);
+}
+
+.hobi {
+    width: 45%; 
+    float: left;
+    margin: 2.5%;
+    box-sizing: border-box; 
+}
+
+p {
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+}
+
+.hobi img {
+    max-width: 400%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 300%;
+}
